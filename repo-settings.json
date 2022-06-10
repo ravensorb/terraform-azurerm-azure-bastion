@@ -1,0 +1,6 @@
+{
+    "name": "terraform-azurerm-azure-bastion",
+    "description": "Terraform module for creating an Azure Bastion Service",
+    "version": "v1.0.0",
+    "message": "Initial Version"
+}
